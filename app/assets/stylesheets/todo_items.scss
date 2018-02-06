@@ -1,0 +1,21 @@
+// Place all the styles related to the todo_items controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+  color: purple;
+  font-weight: bold;
+  text-shadow: 15px;
+  text-decoration: underline;
+  font-size: 7em;
+}
+th{
+  color: pink;
+  font-size: 4em;
+}
+a:-webkit-any-link{
+  color: green;
+  font-style: italic;
+  font-size: 3em;
+
+}
